@@ -1,0 +1,5 @@
+.col:hover{
+    border-radius: 10px;
+    box-shadow: -1px 7px 30px -5px rgba(0,0,0,0.74);
+    transition: 1S;
+}
